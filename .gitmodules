@@ -1,0 +1,3 @@
+[submodule "dicee-flutter"]
+	path = dicee-flutter
+	url = https://github.com/londonappbrewery/dicee-flutter
