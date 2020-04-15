@@ -2,7 +2,7 @@
 In this repository you can find projects which I wrote during various Flutter courses.
 
 
-## I am rich
+## I Am Rich
 This is simple application which is doing nothing.
 Idea is taken from [here](https://en.wikipedia.org/wiki/I_Am_Rich).
 
