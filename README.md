@@ -1,5 +1,11 @@
 # flutter-projects
-In this repository you can find projects which I wrote during various Flutter courses.
+In this repository you can find projects which I wrote during various Flutter courses. You can find more about every app in directory of the app.
+
+
+## Xylophone
+I have builded xylophone app with third party packages.
+
+<img src="https://github.com/mkisic/flutter-projects/blob/master/xylophone_flutter/screenshots/screenshot.jpg" width="180" height="360">
 
 
 ## Magic 8 Ball
